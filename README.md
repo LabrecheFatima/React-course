@@ -1,4 +1,4 @@
-# Laptop Store Website
+# Laptop Shop module 1
 
 A modern, responsive laptop e-commerce website built with React. This project showcases a clean and interactive user interface for browsing and purchasing premium laptops.
 
@@ -42,9 +42,9 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/LabrecheFatima/React-course.git
+git clone https://github.com/LabrecheFatima/Laptop-Shop-module-1.git
 
-cd laptop-store
+cd Laptop-Shop-module-1
 ```
 
 2. Install dependencies:
